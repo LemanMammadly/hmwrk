@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\homeworks\hworkkk\hworkkk\obj\Debug\netcoreapp3.1\hworkkk.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\homeworks\hworkkk\hworkkk\obj\Debug\netcoreapp3.1\hworkkk.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\homeworks\hworkkk\hworkkk\obj\Debug\netcoreapp3.1\hworkkk.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\homeworks\hworkkk\hworkkk\obj\Debug\netcoreapp3.1\hworkkk.AssemblyInfo.cs
+\\Mac\Home\Desktop\homeworks\hworkkk\hworkkk\obj\Debug\netcoreapp3.1\hworkkk.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\homeworks\hworkkk\hworkkk\bin\Debug\netcoreapp3.1\hworkkk.exe
+\\Mac\Home\Desktop\homeworks\hworkkk\hworkkk\bin\Debug\netcoreapp3.1\hworkkk.deps.json
+\\Mac\Home\Desktop\homeworks\hworkkk\hworkkk\bin\Debug\netcoreapp3.1\hworkkk.runtimeconfig.json
+\\Mac\Home\Desktop\homeworks\hworkkk\hworkkk\bin\Debug\netcoreapp3.1\hworkkk.runtimeconfig.dev.json
+\\Mac\Home\Desktop\homeworks\hworkkk\hworkkk\bin\Debug\netcoreapp3.1\hworkkk.dll
+\\Mac\Home\Desktop\homeworks\hworkkk\hworkkk\bin\Debug\netcoreapp3.1\hworkkk.pdb
+\\Mac\Home\Desktop\homeworks\hworkkk\hworkkk\obj\Debug\netcoreapp3.1\hworkkk.dll
+\\Mac\Home\Desktop\homeworks\hworkkk\hworkkk\obj\Debug\netcoreapp3.1\hworkkk.pdb
+\\Mac\Home\Desktop\homeworks\hworkkk\hworkkk\obj\Debug\netcoreapp3.1\hworkkk.genruntimeconfig.cache
